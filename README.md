@@ -52,3 +52,5 @@ https://github.com/199ocero/Developer-Portfolio
 ## 📫 Contact
 If you want to contact me you can reach me at Discord: wuemeli
 
+ALL CREDITS TO WUEMELI!!!
+
