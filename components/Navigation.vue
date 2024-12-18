@@ -35,7 +35,7 @@
        <router-link to="/introduction" class="text-red-500 hover:bg-gray-800 animated-link"
         active-class="text-blue-500 font-bold" exact>
         <div class="flex items-center">
-          <img src="/img/icon.png" alt="/icons/icon.png" class="w-5 h-auto mr-2" />
+          <img src="/icons/icon1.svg" alt="/icons/icon.png" class="w-5 h-auto mr-2" />
           <p>Introduction</p>
         </div>
       </router-link>
@@ -43,7 +43,7 @@
       <router-link to="/whatdoido" class="text-red-500 hover:bg-gray-800 animated-link"
         active-class="text-blue-500 font-bold" exact>
         <div class="flex items-center">
-          <img src="/img/icon1.png" alt="/icons/icon.png" class="w-5 h-auto mr-2" />
+          <img src="/icons/icon1.svg" alt="ico" class="w-5 h-auto mr-2" />
           <p>What do i do?</p>
         </div>
       </router-link>
