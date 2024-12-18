@@ -44,7 +44,7 @@
         active-class="text-blue-500 font-bold" exact>
         <div class="flex items-center">
           <img src="/icons/icon1.svg" alt="ico" class="w-5 h-auto mr-2" />
-          <p>What do i do?</p>
+          <p>pookie</p>
         </div>
       </router-link>
       
